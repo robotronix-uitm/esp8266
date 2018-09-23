@@ -19,7 +19,7 @@ CH340 Driver for Mac
 Mac (macOS High Sierra and above)
 ============
 
-First, download the latest Arduino for Mac:
+First, download the latest Arduino_ for Mac:
 
 .. _Arduino: https://https://www.arduino.cc/en/Main/Software/
 
