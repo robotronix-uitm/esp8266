@@ -1,6 +1,6 @@
-====================
+=============================
 Initial Setup For Windows/Mac
-====================
+=============================
 
 You need to have:
 
@@ -17,7 +17,7 @@ CH340 Driver for Windows
 CH340 Driver for Mac
 
 Mac (macOS High Sierra and above)
-============
+=================================
 
 First, download the latest Arduino_ for Mac:
 
