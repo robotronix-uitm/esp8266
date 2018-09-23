@@ -1,10 +1,9 @@
-ROBOTRONIX
+RTX-ESP8266
 =================
 
-Welcome to Robotronix ESP8266 Tutorial
+Welcome to Robotronix **ESP8266 LoLin V3** Hands-on Tutorial
 
-ESP8266 is a great microcontroller if you are looking for a cheap and powerful
-Arduino-based controller with built-in WiFi connectivity.
+**ESP8266 LoLin V3** is in front of you now. Let's play with it!
 
 .. include:: ../README.rst
 
@@ -16,27 +15,7 @@ Table of Contents
     :numbered:
 
     initialsetup
-    recipes
-    recipes_advanced
-    remote_gpio
-    recipes_remote_gpio
-    pi_zero_otg
-    source_values
-    cli_tools
-    faq
-    contributing
-    development
-    api_input
-    api_output
-    api_spi
-    api_boards
-    api_other
-    api_generic
-    api_tools
-    api_info
-    api_pins
-    api_exc
-    changelog
+    importlib
     license
 
 Indices and tables
