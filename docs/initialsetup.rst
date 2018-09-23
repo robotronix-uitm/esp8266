@@ -21,9 +21,7 @@ Mac (macOS High Sierra and above)
 
 First, download the latest Arduino for Mac:
 
-.. code-block:: console
-
-    .. _Arduino: https://https://www.arduino.cc/en/Main/Software/
+.. _Arduino: https://https://www.arduino.cc/en/Main/Software/
 
 Then install the package for Python 3:
 
