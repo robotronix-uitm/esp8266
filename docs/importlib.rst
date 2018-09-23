@@ -11,6 +11,10 @@ Importing library
 
 - Step 1: Run Arduino IDE from Mac / Windows:
 
+- Step 2: Open Preference
+
+.. image:: images/preferencemac.*
+
 .. code-block:: console
 
     pi@raspberrypi:~$ sudo apt update
