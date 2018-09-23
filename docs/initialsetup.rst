@@ -21,13 +21,11 @@ Mac (macOS High Sierra and above)
 
 First, download the latest Arduino_ for Mac:
 
-.. _Arduino: https://https://www.arduino.cc/en/Main/Software/
+.. _Arduino: https://www.arduino.cc/en/Main/Software
 
-Then install the package for Python 3:
+Then install CH340_ driver for Mac (High Sierra and above):
 
-.. code-block:: console
-
-    pi@raspberrypi:~$ sudo apt install python3-gpiozero
+.. _CH340: https://github.com/MPParsley/ch340g-ch34g-ch34x-mac-os-x-driver
 
 or Python 2:
 
