@@ -5,56 +5,38 @@ Initial Setup For Windows/Mac
 You need to have:
 
 PC - Windows 7 or above
-
 Mac - macOS High Sierra or above
-
 Arduino for Windows (Windows user)
-
 Arduino for Mac (Mac user)
-
 CH340 Driver for Windows
-
 CH340 Driver for Mac
 
 Mac (macOS High Sierra and above)
 =================================
 
-First, download the latest Arduino_ for Mac:
+- Step 1: Download the latest Arduino_ for Mac:
 
 .. _Arduino: https://www.arduino.cc/en/Main/Software
 
-Then install CH340_ driver for Mac (High Sierra and above):
+- Step 2: Install CH340_Mac_ driver for Mac (High Sierra and above):
 
-.. _CH340: https://github.com/MPParsley/ch340g-ch34g-ch34x-mac-os-x-driver
+.. _CH340_Mac: https://github.com/MPParsley/ch340g-ch34g-ch34x-mac-os-x-driver
 
-or Python 2:
+- Step 3: Restart your Mac
 
-.. code-block:: console
 
-    pi@raspberrypi:~$ sudo apt install python-gpiozero
+PC (Windows 10)
+==============
 
-If you're using another operating system on your Raspberry Pi, you may need to
-use pip to install GPIO Zero instead. Install pip using `get-pip`_ and then
-type:
+- Step 1: Download the latest Arduino_ for Windows:
 
-.. code-block:: console
+.. _Arduino: https://www.arduino.cc/en/Main/Software
 
-    pi@raspberrypi:~$ sudo pip3 install gpiozero
+- Step 2: Install CH340_Windows_ driver for Windows:
 
-or for Python 2:
+.. _CH340_Windows: https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip
 
-.. code-block:: console
-
-    pi@raspberrypi:~$ sudo pip install gpiozero
-
-To install GPIO Zero in a virtual environment, see the :doc:`development` page.
-
-PC/Mac
-======
-
-In order to use GPIO Zero's remote GPIO feature from a PC or Mac, you'll need
-to install GPIO Zero on that computer using pip. See the :doc:`remote_gpio`
-page for more information.
+- Step 3: Restart your PC
 
 
 .. _Raspbian: https://www.raspberrypi.org/downloads/raspbian/
