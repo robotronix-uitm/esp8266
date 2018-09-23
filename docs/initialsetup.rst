@@ -5,20 +5,25 @@ Initial Setup For Windows/Mac
 You need to have:
 
 PC - Windows 7 or above
+
 Mac - macOS High Sierra or above
+
 Arduino for Windows (Windows user)
+
 Arduino for Mac (Mac user)
+
 CH340 Driver for Windows
+
 CH340 Driver for Mac
 
-Raspberry Pi
+Mac (macOS High Sierra and above)
 ============
 
-First, update your repositories list:
+First, download the latest Arduino for Mac:
 
 .. code-block:: console
 
-    pi@raspberrypi:~$ sudo apt update
+    .. _Arduino: https://https://www.arduino.cc/en/Main/Software/
 
 Then install the package for Python 3:
 
