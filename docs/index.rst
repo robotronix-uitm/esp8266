@@ -15,7 +15,7 @@ Table of Contents
     :maxdepth: 1
     :numbered:
 
-    installing
+    initialsetup
     recipes
     recipes_advanced
     remote_gpio
