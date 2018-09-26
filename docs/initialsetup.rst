@@ -1,5 +1,5 @@
 =============================
-Initial Setup For Windows/Mac
+Initial Setup For Windows/Mac HAHAHAHAHAHAHAHAH
 =============================
 
 You need to have:
